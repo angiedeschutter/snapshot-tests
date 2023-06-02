@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="https://placekitten.com/400/400"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        User Name
+      </div>
+      <p
+        className="card-text"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis turpis lacus, tempor nec laoreet at, ultrices nec justo.
+      </p>
+    </div>
+  </div>
+</div>
+`;
